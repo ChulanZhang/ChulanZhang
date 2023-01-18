@@ -2,10 +2,11 @@
 <!-- **ChulanZhang/ChulanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on adaptive computer vision systems on embedded devices.
-- 🌱 I’m currently learning computer vision, deep learning system design, optimization, and deployment.
-- 👯 I’m looking for a internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
-- ⚡ Fun fact: I would like to spend one year living in Antarctica if there’s any opportunity. Cannot image how cool it is!
+- 😄 I am a fourth-year Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use technology to solve real-world problems. Specifically, I enjoyed researching, developing, and deploying the cutting-edge intelligent systems around us. I hope to optimize such systems' latency/accuracy/energy performance and lead to a sustainable environment.
+- 🔭 I’m looking for a internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
+
+![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
+
 ### ⚡ Interests
 - Adaptive computer vision system at the Edge
 - Optimizing performance and energy consumption for Edge systems
@@ -39,21 +40,20 @@ both the Physical and MAC layer
     * Electronics and Digital Technology (Spring 2015)
 
 ### 📫 Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-wang-2b9a9515a/) [![Twitter Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/chulan_z)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-wang-2b9a9515a/) [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chulan_z)
 
-![Cheng's github stats](https://github-readme-stats.vercel.app/api?username=ChengChen2020&show_icons=true&theme=merko)
+[![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang) -->
+![Pengcheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&theme=merko&langs_count=8&layout=compact)
 
-![Cheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengChen2020&theme=merko)
+🌱 Fun fact: I would like to spend one year living in Antarctica if there’s any opportunity. Cannot image how cool it is!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChengChen2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 🔭 🌱 ⚡😄 ✨ 👋 -->
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChengChen2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang)](https://github.com/ChulanZhang/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&layout=compact)](https://github.com/ChulanZhang/github-readme-stats) -->
-
 
 <!-- ![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&show_icons=true&theme=tokyonight) -->
