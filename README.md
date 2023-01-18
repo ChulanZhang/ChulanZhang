@@ -35,7 +35,7 @@
     * Job duties: Undertook wireless communication algorithm and protocol analysis, design, implementation, and verification in
 both the Physical and MAC layer
 - Teaching Assistant at Tongji `Shanghai` `Sept 2014 ~ Jan 2017`
-    * Semiconductor Physics (Fall 2016, 2015 and 2014)
+    * Semiconductor Physics (Fall 2016, 2015, and 2014)
     * Electromagnetic Fields and Waves (Spring 2016)
     * Electronics and Digital Technology (Spring 2015)
 
