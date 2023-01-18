@@ -8,9 +8,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
 
 ### ⚡ Interests
-- Adaptive computer vision system at the Edge
-- Optimizing performance and energy consumption for Edge systems
-- Internet of Things (IoT)
+- Adaptive Computer vision System at the Edge
+- Optimizing Performance and Energy Consumption for Edge Systems
+- Artificial Internet of Things (AIoT)
 
 ### :mortar_board: Education
 - Ph.D. student @ [Purdue University](https://www.purdue.edu/) `West Lafayette` `Aug 2019 ~`
