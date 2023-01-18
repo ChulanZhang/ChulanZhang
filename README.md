@@ -8,7 +8,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
 
 ### ⚡ Interests
-- Adaptive Computer vision System at the Edge
+- Adaptive Computer Vision System at the Edge
 - Optimizing Performance and Energy Consumption for Edge Systems
 - Artificial Internet of Things (AIoT)
 
