@@ -15,11 +15,11 @@
 ### :mortar_board: Education
 - Ph.D. student @ [Purdue University](https://www.purdue.edu/) `West Lafayette` `Aug 2019 ~`
     - Major: Computer Engineering
-- M.S. @ [Tongji University](https://www.nyu.edu/about.html) `Shanghai` `Sept 2014 ~ Mar 2017`
+- M.S. @ [Tongji University](https://www.tongji.edu.cn/eng/) `Shanghai` `Sept 2014 ~ Mar 2017`
     - Excellent Graduate of Tongji University in 2017
     - Major: Electronic Science and Technology
     - Minor: Green Economy and Sustainable Development
-- B.E. @ [Tongji University](https://www.nju.edu.cn/EN/wbout/main.htm) `Shanghai` `Sept 2010 ~ June 2014`
+- B.E. @ [Tongji University](https://www.tongji.edu.cn/eng/) `Shanghai` `Sept 2010 ~ June 2014`
     - Excellent Graduate of Tongji University in 2014
     - Major: Electronic Science and Technology
 
