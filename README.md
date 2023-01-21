@@ -2,8 +2,8 @@
 <!-- **ChulanZhang/ChulanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 😄 I am a fourth-year Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoyed researching, developing, and deploying the cutting-edge intelligent systems around us. I hope to optimize such systems' latency/accuracy/energy performance and lead to a sustainable environment.
-- 🔭 I’m looking for a internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
+- 😄 I am a fourth-year Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoy researching, developing, and deploying cutting-edge intelligent systems around us. I hope to optimize such systems' latency/accuracy/energy performance and lead to a sustainable environment.
+- 🔭 I’m looking for an internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
 
 ![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
 
@@ -24,10 +24,10 @@
     - Major: Electronic Science and Technology
 
 ### 🔭 Research
-- Research Assistant at [Innovatory for Cells and Neural Machines](https://schaterji.io/research/) at Purdue ```2019.08 ~ ```
-- Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```2019.08 ~ ```
-- Research Assistant at [Purdue-WHIN IoT Infrastructure and Data Analytics Team](https://purduewhin.ecn.purdue.edu/) at Purdue ```2019.8 ~ 2022.8```
-- Research Assistant at [Department of Electronic Science and Technology](https://est.tongji.edu.cn/esten/main.htm) at Tongji ```2013.9 ~ 2017.3```
+- Research Assistant at [Innovatory for Cells and Neural Machines](https://schaterji.io/research/) at Purdue ```Aug 2019 ~ ```
+- Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```Aug 2019 ~ ```
+- Research Assistant at [Purdue-WHIN IoT Infrastructure and Data Analytics Team](https://purduewhin.ecn.purdue.edu/) at Purdue ```Aug 2019 ~ Aug 2022```
+- Research Assistant at [Department of Electronic Science and Technology](https://est.tongji.edu.cn/esten/main.htm) at Tongji ```Sept 2013 ~ Mar 2017```
 
 ### :office: Work
 - Algorithm Engineer at [ZTE Corp](https://www.zte.com.cn/global/) `Shenzhen` `May 2017 ~ July 2019`
