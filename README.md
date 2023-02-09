@@ -5,7 +5,10 @@
 - 😄 I am a fourth-year Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoy researching, developing, and deploying cutting-edge intelligent systems around us. I hope to optimize such systems' latency/accuracy/energy performance and lead to a sustainable environment.
 - 🔭 I’m looking for an internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
 
-![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)
+[![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
+
+<!-- ![Pengcheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&theme=merko)    -->
+
 
 ### ⚡ Interests
 - Adaptive Computer Vision System at the Edge
@@ -46,12 +49,8 @@ both the Physical and MAC layer
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=tGD20rgAAAAJ&view_op=list_works&sortby=pubdate)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chulan_z)
 
-[![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang) -->
-![Pengcheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&theme=merko&langs_count=8&layout=compact)
-
+![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)  
 🌱 Fun fact: I would like to spend one year living in Antarctica if there’s any opportunity. Cannot image how cool it is!
-
 <!-- 🔭 🌱 ⚡😄 ✨ 👋 -->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChengChen2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
