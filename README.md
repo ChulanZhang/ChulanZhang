@@ -43,6 +43,7 @@ both the Physical and MAC layer
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-wang-2b9a9515a/) 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Chulan/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=tGD20rgAAAAJ&view_op=list_works&sortby=pubdate)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chulan_z)
 
 [![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,6 +58,6 @@ both the Physical and MAC layer
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang)](https://github.com/ChulanZhang/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&layout=compact)](https://github.com/ChulanZhang/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang)](https://github.com/ChulanZhang/github-readme-stats) -->
 
 <!-- ![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&show_icons=true&theme=tokyonight) -->
