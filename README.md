@@ -2,7 +2,7 @@
 <!-- **ChulanZhang/ChulanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 😄 I am a Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoy researching, developing, and deploying cutting-edge intelligent systems around us. I hope to optimize such systems' latency/accuracy/energy performance and lead to a sustainable environment.
+- 😄 I am a Ph.D. student and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoy researching, developing, and deploying cutting-edge intelligent systems around us. I aim to optimize intelligent computer systems' latency/accuracy/energy performance and lead to a sustainable environment.
 - 🔭 I’m looking for an internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
 
 [![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
@@ -12,7 +12,7 @@
 
 ### ⚡ Interests
 - Adaptive Computer Vision System at the Edge
-- Optimizing Performance and Energy Consumption for Edge Systems
+- Optimizing Performance and Energy Consumption for Edge Computing
 - Artificial Internet of Things (AIoT)
 
 ### :mortar_board: Education
@@ -35,7 +35,7 @@
 ### :office: Work
 - Algorithm Engineer at [ZTE Corp](https://www.zte.com.cn/global/) `Shenzhen` `May 2017 ~ July 2019`
     * Project: 5G New Radio (NR) Communication System
-    * Job duties: Undertook wireless communication algorithm and protocol analysis, design, implementation, and verification in
+    * Job duties: Undertook wireless communication protocol and algorithm analysis, design, implementation, and verification in
 both the Physical and MAC layer
 - Teaching Assistant at Tongji `Shanghai` `Sept 2014 ~ Jan 2017`
     * Semiconductor Physics (Fall 2016, 2015, and 2014)
