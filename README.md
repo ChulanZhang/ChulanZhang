@@ -16,7 +16,7 @@
 - Artificial Internet of Things (AIoT)
 
 ### :mortar_board: Education
-- Ph.D. student @ [Purdue University](https://www.purdue.edu/) `West Lafayette` `Aug 2019 ~`
+- Ph.D. Candidate @ [Purdue University](https://www.purdue.edu/) `West Lafayette` `Aug 2019 ~`
     - Major: Computer Engineering
 - M.S. @ [Tongji University](https://www.tongji.edu.cn/eng/) `Shanghai` `Sept 2014 ~ Mar 2017`
     - Excellent Graduate of Tongji University in 2017
