@@ -5,7 +5,7 @@
 - 😄 I am a Ph.D. Candidate and a Research Assistant in the [Innovatory for Cells and Neural Machines (ICAN)](https://schaterji.io/research/) lab and [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) at Purdue University, advised by Professor [Somali Chaterji](https://schaterji.io/) and Professor [Saurabh Bagchi](https://bagchi.github.io/). My research interests include optimizing performance and energy consumption for edge systems. Recently, I worked on several research projects that target optimizing the performance and energy efficiency of two technologies: computer vision at the edge and Internet of Things (IoT) networks. I love to use my knowledge to solve real-world problems. Specifically, I enjoy researching, developing, and deploying cutting-edge intelligent systems around us. I aim to optimize intelligent computer systems' latency/accuracy/energy performance and lead to a sustainable environment.
 - 🔭 I’m looking for an internship position to develop and deploy adaptive and innovative Machine Learning systems in real-world applications.
 
-[![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![Pengcheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulanZhang&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)   -->
 
 <!-- ![Pengcheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulanZhang&theme=merko)    -->
 
