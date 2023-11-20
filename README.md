@@ -11,7 +11,7 @@
 
 
 ### ⚡ Interests
-- Adaptive Computer Vision System at the Edge
+- Adaptive Computer Vision System on Embedded/Mobile GPUs
 - Optimizing Performance and Energy Consumption for Edge Computing
 - Artificial Internet of Things (AIoT)
 
