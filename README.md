@@ -39,7 +39,7 @@
     * Project: 5G New Radio (NR) Communication System
     * Job duties: Undertook wireless communication protocol and algorithm analysis, design, implementation, and verification in
 both the Physical and MAC layer
-- Teaching Assistant at Tongji `Shanghai` `Sept 2014 ~ Jan 2017`
+- Teaching Assistant at [Department of Electronic Science and Technology](https://est.tongji.edu.cn/esten/main.htm) at Tongji `Shanghai` `Sept 2014 ~ Jan 2017`
     * Semiconductor Physics (Fall 2016, 2015, and 2014)
     * Electromagnetic Fields and Waves (Spring 2016)
     * Electronics and Digital Technology (Spring 2015)
