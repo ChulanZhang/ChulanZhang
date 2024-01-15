@@ -11,8 +11,8 @@
 
 
 ### ⚡ Interests
-- Adaptive Computer Vision System on Embedded/Mobile GPUs
-- Optimizing Performance and Energy Consumption for Edge Computing
+- Intelligent Computer Vision System on Embedded/Mobile GPUs
+- Optimizing Performance and Energy Consumption for ML Applications on Embedded/Mobile Devices
 - Artificial Internet of Things (AIoT)
 
 ### :mortar_board: Education
@@ -33,6 +33,8 @@
 - Research Assistant at [Department of Electronic Science and Technology](https://est.tongji.edu.cn/esten/main.htm) at Tongji ```Sept 2013 ~ Mar 2017```
 
 ### :office: Work
+- Teaching Assistant at [Purdue University](https://www.purdue.edu/) `West Lafayette` `Jan ~ May 2024`
+    * ABE591: Machine Learning for IoT and Computer Systems (Spring 2024)
 - Algorithm Engineer at [ZTE Corp](https://www.zte.com.cn/global/) `Shenzhen` `May 2017 ~ July 2019`
     * Project: 5G New Radio (NR) Communication System
     * Job duties: Undertook wireless communication protocol and algorithm analysis, design, implementation, and verification in
