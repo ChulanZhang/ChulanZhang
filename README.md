@@ -31,7 +31,7 @@
 ### 🔭 Research
 - Research Assistant at [Innovatory for Cells and Neural Machines](https://schaterji.io/research/) at Purdue ```Aug 2019 ~ ```
 - Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```Aug 2019 ~ ```
-- Research Assistant at [Purdue-WHIN IoT Infrastructure and Data Analytics Team](https://purduewhin.ecn.purdue.edu/) at Purdue ```Aug 2019 ~ Aug 2022```
+- Research Assistant at [Purdue-WHIN IoT Infrastructure and Data Analytics Team](https://www.purdue.edu/whin/) at Purdue ```Aug 2019 ~ Aug 2022```
 - Research Assistant at [Department of Electronic Science and Technology](https://est.tongji.edu.cn/esten/main.htm) at Tongji ```Sept 2013 ~ Mar 2017```
 
 ### :office: Work
