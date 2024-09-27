@@ -47,7 +47,8 @@ both the Physical and MAC layer
     * Electronics and Digital Technology (Spring 2015)
 
 ### :computer: Services
-- Artifact Evaluation Committee (AEC) of USENIX OSDI '22 and ATC '22
+- Artifact Evaluation Committee (AEC) of USENIX OSDI 2022 and ATC 2022
+- Artifact Evaluation Committee (AEC) of SenSys 2024
 
 ### 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) 
