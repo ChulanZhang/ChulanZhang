@@ -36,6 +36,7 @@
 
 ### :office: Work
 - Teaching Assistant at [Purdue University](https://www.purdue.edu/) `West Lafayette` `Spring 2024, 2025`
+    * ABE591: From Chips to Cloud: Machine Learning in IoT and Computer Systems (Spring 2025)
     * ABE591: Machine Learning for IoT and Computer Systems (Spring 2024)
 - Algorithm Engineer at [ZTE Corp](https://www.zte.com.cn/global/) `Shenzhen` `2017 ~ 2019`
     * Project: 5G New Radio (NR) Communication System
@@ -47,8 +48,8 @@
 
 ### :computer: Services
 - Artifact Evaluation Committee (AEC) of MobiSys 2025
-- Artifact Evaluation Committee (AEC) of USENIX OSDI 2022 and ATC 2022
 - Artifact Evaluation Committee (AEC) of SenSys 2024
+- Artifact Evaluation Committee (AEC) of USENIX OSDI 2022 and ATC 2022
 
 ### 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) 
