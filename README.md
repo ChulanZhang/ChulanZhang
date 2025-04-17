@@ -13,9 +13,9 @@
 
 
 ### ⚡ Interests
-- LLMs inference optimization on AI ASIC Chips
-- Intelligent Computer Vision System on Embedded/Mobile GPUs
-- Optimizing Performance and Energy Consumption for ML Applications on Embedded/Mobile Devices
+- LLM Inference Optimization on AI Accelerators
+- Intelligent Computer Vision System
+- Performance and Energy Efficiency for MLSys on embedded/mobile devices
 
 ### :mortar_board: Education
 - Ph.D. Candidate @ [Purdue University](https://www.purdue.edu/) `West Lafayette` `2019 ~`
