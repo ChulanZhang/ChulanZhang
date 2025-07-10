@@ -47,9 +47,10 @@
     * Electronics and Digital Technology (Spring 2015)
 
 ### :computer: Services
-- Artifact Evaluation Committee (AEC) of MobiSys 2025
-- Artifact Evaluation Committee (AEC) of SenSys 2024
-- Artifact Evaluation Committee (AEC) of USENIX OSDI 2022 and ATC 2022
+- Artifact Evaluation Committee of MobiSys 2025
+- Shadow Program Committee of EuroSys 2024
+- Artifact Evaluation Committee of SenSys 2024
+- Artifact Evaluation Committee of USENIX OSDI 2022 and ATC 2022
 
 ### 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com) 
@@ -58,7 +59,6 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=tGD20rgAAAAJ&view_op=list_works&sortby=pubdate)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chulan_z)
 
-![Visitor Count](https://profile-counter.glitch.me/ChulanZhang/count.svg)  
 🌱 Fun fact: I would like to spend one year living in Antarctica if there’s any opportunity. Cannot imagine how cool it is!
 <!-- 🔭 🌱 ⚡😄 ✨ 👋 -->
 
