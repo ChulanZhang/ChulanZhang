@@ -6,7 +6,7 @@ I'm **Pengcheng Wang**, a Ph.D. Candidate at **Purdue University** working on Ma
 
 🔗 **[My personal website](https://chulanzhang.github.io)** — publications, CV, and more.
 
-🎯 **Actively seeking 2026 Summer/Fall full-time opportunities** — ML Systems Engineer / Research Scientist.
+🎯 **Actively seeking Full-time opportunities** — ML Systems Engineer / Research Scientist.
 
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com)
