@@ -18,18 +18,15 @@ I build **adaptive ML systems** for efficient vision and multimodal models, with
 
 - **SmartVL**: *Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs*, accepted to **ECCV 2026**.
 - **Agile3D**: Adaptive contention- and content-aware 3D object detection for embedded GPUs, accepted to **ACM MobiSys 2025**.
-- **Industry experience**: foundation model optimization at EmbodyX; AI Accelerator Software Toolchains and GenAI for Chip Design work at Sunlune.
+- **Industry experience**: Foundation Model Optimization at EmbodyX; AI Accelerator Software Toolchains and GenAI for Chip Design work at Sunlune.
 
-### Links
+### Contact & Links
 
-- **Website**: [pengchengwang.me](https://pengchengwang.me/)
-
-### Contact
-
+[![Website Badge](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pengchengwang.me/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengchengwang92@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-wang-2b9a9515a/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=tGD20rgAAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2797-6973)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Chulan/)
 
-Outside work, I still think spending a year in Antarctica would be hard to turn down.
+🌱 Fun fact: I would like to spend one year living in Antarctica if there's any opportunity!
