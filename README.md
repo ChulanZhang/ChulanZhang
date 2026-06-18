@@ -18,14 +18,11 @@ I build **adaptive ML systems** for efficient vision and multimodal models, with
 
 - **SmartVL**: *Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs*, accepted to **ECCV 2026**.
 - **Agile3D**: Adaptive contention- and content-aware 3D object detection for embedded GPUs, accepted to **ACM MobiSys 2025**.
-- **Industry experience**: foundation model optimization at EmbodyX; AI accelerator toolchains, LLM inference kernels, and GenAI-for-chip-design work at Sunlune.
+- **Industry experience**: foundation model optimization at EmbodyX; AI Accelerator Software Toolchains and GenAI for Chip Design work at Sunlune.
 
 ### Links
 
 - **Website**: [pengchengwang.me](https://pengchengwang.me/)
-- **Publications**: [pengchengwang.me/publications](https://pengchengwang.me/publications/)
-- **Resume/CV**: [pengchengwang.me/cv](https://pengchengwang.me/cv/)
-- **Experience**: [pengchengwang.me/experience](https://pengchengwang.me/experience/)
 
 ### Contact
 
