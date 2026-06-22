@@ -16,7 +16,7 @@ I build **adaptive ML systems** for efficient vision and multimodal models, with
 
 ### Recent Highlights
 
-- **SmartVL**: *Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs*, accepted to **ECCV 2026**.
+- One paper accepted to **ECCV 2026**.
 - **Agile3D**: Adaptive contention- and content-aware 3D object detection for embedded GPUs, accepted to **ACM MobiSys 2025**.
 - **Industry experience**: Foundation Model Optimization at EmbodyX; AI Accelerator Software Toolchains and GenAI for Chip Design work at Sunlune.
 
